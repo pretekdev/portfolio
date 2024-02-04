@@ -19,7 +19,7 @@ export default function Index() {
       <Link legacyBehavior href="/">
       <a style={{ display: 'flex', alignItems: 'center', color:"white" }}>
       <DiCssdeck size="4rem" /> 
-      <span>Petek.dev</span>
+      <span>Pretek.dev</span>
       </a>
       </Link>
     </Div1>
